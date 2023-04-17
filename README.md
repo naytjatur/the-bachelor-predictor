@@ -3,11 +3,6 @@ Predicts the final 6 contestants on ABC reality TV show The Bachelor based on pe
 
 Data set obtained from FiveThirtyEight on Kaggle
 
-Inspired by:
-
-https://github.com/KwameTaylor/bachelorette-predictor
-https://github.com/chesmore/bach-stats/
-
 OBJECTIVE:
 
 Predicts contestants will make it to the top 5 (I.e., how far they will get in the show) based on 1-1 dates and roses received in first five episodes.
